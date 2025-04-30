@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-04T00:05:11.449873108Z</date>
+  <millis>1688429111449</millis>
+  <nanos>873108</nanos>
+  <sequence>0</sequence>
+  <logger>firefight_env.RosEnv</logger>
+  <level>INFO</level>
+  <class>RosEnv</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Firefight Environment started: connection with ROS established.</message>
+</record>
+<record>
+  <date>2023-07-04T00:05:16.766825053Z</date>
+  <millis>1688429116766</millis>
+  <nanos>825053</nanos>
+  <sequence>1</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>42</thread>
+  <message>Started!</message>
+</record>
+</log>
